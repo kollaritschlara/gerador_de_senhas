@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 
 :root {
+    background-image:url(hellokitty.png);
     --branco: white;
     --cor-de-fundo: #530074;
     --fundo-senha: #3a067e;
@@ -8,6 +9,7 @@
     --borda: #d793ff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
+    background-repeat: 1800;
 }
 
 {
