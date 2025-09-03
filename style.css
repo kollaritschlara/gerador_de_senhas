@@ -3,13 +3,12 @@
 :root {
     background-image:url(hellokittiy.png);
     --branco: white;
-    --cor-de-fundo: #530074;
     --fundo-senha: #3a067e;
     --fundo-texto: #a02cff3d;
     --borda: #d793ff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
-    background-size:1800;
+    background-size:1000;
 }
 
 {
