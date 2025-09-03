@@ -2,7 +2,7 @@
 
 :root {
     background-image:url(hellokittiy.png);
-    --branco: white;
+    --branco: rgb(0, 0, 0);
     --fundo-texto: #a02cff3d;
     --borda: #d793ff;
     --roboto: 'Roboto', sans-serif;
