@@ -8,9 +8,8 @@
     --borda: #d793ff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
-    background-size:100;
+    background-size: auto;
 }
-
 {
     font-weight: 400;
 }
